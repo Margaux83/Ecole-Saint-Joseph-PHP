@@ -8,12 +8,16 @@ Le boutuon "voir" de la page CE nous redirige sur le site officiel de Disneylans
 Le projet contient tous les dossiers et fichiers nécessaires à son fonctionnement (y compris le fichier sql pour importer les tables de la base de données). 
  
 
-![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/ indexecole.PNG) 
+ 
 
-![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/ inscecole.PNG) 
+![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/indexecole.PNG) 
 
-![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/ connexionecole.PNG) 
+![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/inscecole.PNG) 
 
-![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/ menusecole.PNG) 
+![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/connexionecole.PNG) 
 
-![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/ offreecole.PNG) 
+![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/menusecole.PNG) 
+
+![description_IMG](https://github.com/Margaux83/Ecole-Saint-Joseph-PHP/blob/master/offreecole.PNG) 
+
+ 
